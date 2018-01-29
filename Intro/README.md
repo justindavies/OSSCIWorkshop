@@ -26,8 +26,8 @@ If you don't want to install the cli locally, or you have restricted access outs
 
 Login to the portal or goto [http://shell.azure.com](http://shell.azure.com).  This will open up a Linux machine that will be pre-authenticated to the azure API for you to start work.
 
-# Create a Linux VM (Portal)
+## Create a Linux VM (Portal)
 Goto the [Portal](http://portal.azure.com) and create a Linux virtual machine.
 
-# Create a Linux VM (CLI/Cloud Shell)
+## Create a Linux VM (CLI/Cloud Shell)
 
