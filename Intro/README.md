@@ -31,3 +31,21 @@ Goto the [Portal](http://portal.azure.com) and create a Linux virtual machine.
 
 ## Create a Linux VM (CLI/Cloud Shell)
 
+Create a resource group for the Linux Virtual Machine
+
+```
+➜  OSSCIWorkshop git:(master) ✗ az group create --name LinuxVMCLI --location eastus
+Location    Name
+----------  ----------
+eastus      LinuxVMCLI
+```
+
+And create the Linux Virtual Machine.  In this case, we will also ask the CLI to create the SSH keypair for you (if one does not exist already), a Data disk of 50GB, as well as choosing the DS2v2 machine type
+
+```
+➜  OSSCIWorkshop git:(master) ✗ az vm create -g LinuxVMCLI --name cliVM --image UbuntuLTS --size Standard_DS2_v2 --data-disk-sizes-gb 50 --generate-ssh-keys
+ - Running ..
+ResourceGroup    PowerState    PublicIpAddress    PrivateIpAddress    MacAddress         Location
+---------------  ------------  -----------------  ------------------  -----------------  ----------
+LinuxVMCLI       VM running    40.71.230.223      10.0.0.4            00-0D-3A-13-13-33  eastus
+```

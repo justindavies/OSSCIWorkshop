@@ -165,7 +165,7 @@ Destroy complete! Resources: 1 destroyed.
 It's all well and good creating a Rersource Group, but let's now deploy something a little more relevant.  Within the *Terraform/vm* directory you will find a set of scripts to define the networking, Network Security Group, Storage and Compute resources for an Ubuntu VM.
 
 
-Go through the same steps as before (*terraform init*, *terraform plan*, *terraform/apply*)
+Go through the same steps as before (*terraform init*, *terraform plan*, *terraform apply*)
 
 NOTE: you will need to set the user and ssh public key information within the vm.tf file to you specific details.
 
