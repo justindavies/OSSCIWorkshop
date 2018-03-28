@@ -23,3 +23,4 @@ This workshop is intended for customers and partners to to be able to understand
 * [Introduction to Terraform](https://github.com/justindavies/OSSCIWorkshop/blob/master/Terraform/README.md)
 * [Advanced Terraform](https://github.com/justindavies/TerraformOnAzure/blob/master/README.md)
 * [Azure Container Service and Kubernetes](https://github.com/justindavies/OSSCIWorkshop/blob/master/ACSandKubernetes/README.md)
+* [Kubernetes Deployments](https://github.com/justindavies/OSSCIWorkshop/blob/master/ACSandKubernetesAdvanced/README.md)
