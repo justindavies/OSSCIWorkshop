@@ -13,8 +13,8 @@ This workshop is intended for customers and partners to to be able to understand
 * 10:00 - 11:00   Infrastructure as Code with Terraform
 * 11:00 - 12:00  Azure Container Service and Kubernetes
 * 12:00 - 13:00   Lunch break 
-* 13:00 - 16:00   Globally available and distributed Kubernetes
-* 16:00 - 16:30   Closing and Q&A
+* 13:00 - 14:00   Kubernetes Deployments
+* 14:00 - 14:30   Closing and Q&A
 
 ## Workshops
 
@@ -23,4 +23,3 @@ This workshop is intended for customers and partners to to be able to understand
 * [Introduction to Terraform](https://github.com/justindavies/OSSCIWorkshop/blob/master/Terraform/README.md)
 * [Advanced Terraform](https://github.com/justindavies/TerraformOnAzure/blob/master/README.md)
 * [Azure Container Service and Kubernetes](https://github.com/justindavies/OSSCIWorkshop/blob/master/ACSandKubernetes/README.md)
-* [Globally available and distributed Kubernetes](https://github.com/justindavies/KubeOnAzure/blob/master/GloballyDistributed/README.md)

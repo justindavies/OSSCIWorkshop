@@ -1,6 +1,6 @@
 # Authenticating to Azure Active Directory
 
-This section is precluded on the fact that an Azure Activer Directory (Cloud only, or sync) has been setup within a VNet.
+This section is precluded on the fact that an Azure Active Directory (Cloud only, or sync) has been setup within a VNet.
 
 As some people will be using Free Accounts, we will be using Ubuntu for this lab (RHEL/SLES etc., will incur a support cost for the vendor which isn't posasible on Free Accounts)
 
